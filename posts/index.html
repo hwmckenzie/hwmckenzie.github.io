@@ -4,15 +4,14 @@ title: Posts
 background: '/img/bg-post.jpg'
 ---
 
-<h1>Archive of posts from {{ page.date | date: "%Y" }}</h1>
-<ul class="posts">
-{% for post in page.posts %}
+<h1>Archive of posts with category</h1>
+<ul>
+{% for category in site.categories %}
+  {% assign category_name = category[0] %}
   <li>
-    <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    <a href="/category/{{ category_name | slugify }}/">{{ category_name | replace: "-", " " }}</a>
   </li>
 {% endfor %}
-</ul>
 
 {% for post in paginator.posts %}
 

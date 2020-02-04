@@ -26,15 +26,6 @@ plugins:
 
 jekyll-archives:
   enabled: all
-  layouts:
-    year: archive/year
-    month: archive/month
-    day: archive/day
-    tag: archive/tag
-    category: archive/category
+  layouts: archive
   permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tags/:name/'
     category: '/category/:name/'

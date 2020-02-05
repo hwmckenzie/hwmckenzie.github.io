@@ -9,11 +9,11 @@ background: '/img/bg-post.jpg'
   <h1>{{ category[0] }}</h1>
   <ul>
     {% for post in category[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}
+      <li><a href="{{ post.url }}">{{ post.title }},
         {% if post.subtitle %}
-        , {{ post.subtitle }}, posted {{ post.date | date: '%B %d, %Y' }}
+        {{ post.subtitle }}, posted {{ post.date | date: '%B %d, %Y' }}
         {% else %}
-        , posted on {{ post.date | date: '%B %d, %Y' }}
+        posted on {{ post.date | date: '%B %d, %Y' }}
         {% endif %}
        </a></li>
     {% endfor %}

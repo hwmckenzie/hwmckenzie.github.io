@@ -11,9 +11,9 @@ background: '/img/bg-post.jpg'
     {% for post in category[1] %}
       <li><a href="{{ post.url }}">{{ post.title }},
         {% if post.subtitle %}
-        {{ post.subtitle }}, <div class="post-meta">posted {{ post.date | date: '%B %d, %Y' }}</div>
+        {{ post.subtitle }}, <span class="post-meta">posted {{ post.date | date: '%B %d, %Y' }}</span>
         {% else %}
-        <div class="post-meta">posted on {{ post.date | date: '%B %d, %Y' }}</div>
+        <span class="post-meta">posted on {{ post.date | date: '%B %d, %Y' }}</span>
         {% endif %}
        </a></li>
     {% endfor %}

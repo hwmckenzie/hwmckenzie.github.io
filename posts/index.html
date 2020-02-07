@@ -5,8 +5,8 @@ background: '/img/bg-post.jpg'
 ---
 <p>Here you can find all the archived reports from the property and from our travels.</p>
 
-{% for category in site.categories.PropertyReport %}
-  <h1>{{ Property Report }}</h1>
+<h1>{{ Property Report }}</h1>
+{% for post in site.categories.PropertyReport %}
   <ul style="list-style-type:none;">
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   </ul>

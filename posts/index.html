@@ -20,7 +20,7 @@ background: '/img/bg-post.jpg'
   </ul>
 {% endfor %}
 
-
-{% for post in site.categories.Travel %}
+<h1>Travels</h1>
+{% for post in site.categories.Travels %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}

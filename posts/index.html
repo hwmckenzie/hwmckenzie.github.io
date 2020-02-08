@@ -15,9 +15,9 @@ background: '/img/bg-post.jpg'
 <h1>Travels</h1>
 {% for tag in site.tags %}
   <h5>{{ tag[0] }}</h5>
-    {% for post in tag[1] %}
-      <ul style="list-style-type:none;">
-        <li><a href="{{ post.url }}"><u>{{ post.title }}</u></a>, {{ page.date | date: '%-d %B %Y' }}</li>
-      </ul>
-   {% endfor %}
+    <ul style="list-style-type:none;">
+      {% for post in tag[1] %}
+        <li><a href="{{ post.url }}"><u>{{ post.title }}</u></a>, {{ post.date | date: '%-d %B %Y' }}</li>
+      {% endfor %}
+    </ul>
 {% endfor %}

@@ -3,7 +3,7 @@ layout: page
 title: The Archives
 background: '/img/bg-post.jpg'
 ---
-<p>Here you can find all the archived reports from the property and from our travels.</p>
+<p>Here you can find all the archived reports from the property and from our travels. Archives are sorted by newest first.</p>
 
 <h1>Property Reports</h1>
 {% for post in site.categories.PropertyReport %}
@@ -13,15 +13,11 @@ background: '/img/bg-post.jpg'
 {% endfor %}
 
 <h1>Travels</h1>
-{% for post in site.categories.Travels %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-
 {% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
- <ul>
+  <h5>{{ tag[0] }}</h5>
     {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+      <ul style="list-style-type:none;">
+        <li><a href="{{ post.url }}"><u>{{ post.title }}</u></a></li>
+      </ul>
+   {% endfor %}
 {% endfor %}

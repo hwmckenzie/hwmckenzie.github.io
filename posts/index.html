@@ -17,7 +17,7 @@ background: '/img/bg-post.jpg'
   <h5>{{ tag[0] }}</h5>
     {% for post in tag[1] %}
       <ul style="list-style-type:none;">
-        <li><a href="{{ post.url }}"><u>{{ post.title }}</u></a></li>
+        <li><a href="{{ post.url }}"><u>{{ post.title }}</u></a>, {{ page.date | date: '%-d %B %Y' }}</li>
       </ul>
    {% endfor %}
 {% endfor %}

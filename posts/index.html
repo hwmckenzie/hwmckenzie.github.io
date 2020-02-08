@@ -6,11 +6,11 @@ background: '/img/bg-post.jpg'
 <p>Here you can find all the archived reports from the property and from our travels. Archives are sorted by newest first.</p>
 
 <h1>Property Reports</h1>
-{% for post in site.categories.PropertyReport %}
   <ul style="list-style-type:none;">
+    {% for post in site.categories.PropertyReport %}
     <li><a href="{{ post.url }}"><u>{{ post.title }}</u></a></li>
+    {% endfor %}
   </ul>
-{% endfor %}
 
 <h1>Travels</h1>
 {% for tag in site.tags %}

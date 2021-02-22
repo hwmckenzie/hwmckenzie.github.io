@@ -14,7 +14,7 @@ To find out, I looked up how our land is classified according to the natural sub
 
 Our property is located at the north end of the Central Parkland subregion.
 
-<img class="img-fluid" src="{{ site.baseurl }}/img/posts/2021-02/central-parkland-map.jpg" alt="[Image: Central Parkland Map]"><span class="caption text-muted">The central parkland subregion is shown in brown. We live at the star, approximately! (map: Alberta Environment and Parks).</span>
+<img class="img-fluid" src="{{ site.baseurl }}/img/posts/2021-02/central-parkland-map.JPG" alt="[Image: Central Parkland Map]"><span class="caption text-muted">The central parkland subregion is shown in brown. We live at the star, approximately! (map: Alberta Environment and Parks).</span>
 
 The central parkland subregion covers 8% of Alberta, lying between the cold, snowy northern forests and the warm, dry southern grasslands. It is the fertile crescent of Alberta, and because of this it is both densely populated and a highly productive agricultural region. In fact, only 5% remains in native vegetation. After learning that most of this region is either developed, under cultivation, or used for grazing, I appreciate our property even more and recognize how unique it is. While I am not sure if our property is truly native central parkland, it is certainly less disturbed than most of the surrounding area. We are also very lucky to have a large conservation area next to us, which connects our small property to a much larger natural area that provides habitat for many plants and wildlife.
 

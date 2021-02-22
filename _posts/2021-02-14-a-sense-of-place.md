@@ -4,7 +4,7 @@ title: "A sense of the place"
 subtitle: "mid February. studying the subject"
 date: 2021-02-14 00:00:00 -0700
 categories: [Permaculture]
-background: '/img/posts/2021/2021-02-14-header.JPG'
+background: '/img/posts/2021-02/2021-02-14-header.JPG'
 draft:
 ---
 

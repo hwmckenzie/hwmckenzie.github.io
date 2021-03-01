@@ -2,7 +2,7 @@
 layout: post
 title: "Academic monologue"
 subtitle: "a (very) short summary of permaculture, as I understand it"
-date: 2021-02-27 00:00:00 -0500
+date: 2021-02-28 00:00:00 -0500
 categories: [Permaculture]
 background: '/img/posts/2021-02/2021-02-27-header.JPG'
 draft:

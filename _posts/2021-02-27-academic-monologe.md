@@ -58,4 +58,4 @@ So there you have it, a crash course in permaculture. I am beginning to believe 
 Hannah & Chris<br />
 Sadie, Seuss, and Revi
 
-![paw]({{ site.baseurl }}img/paw70x70.jpg)
+![paw]({{ site.baseurl }}/img/paw70x70.jpg)

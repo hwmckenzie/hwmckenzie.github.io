@@ -22,9 +22,9 @@ While personal responsibility is a value most parents try to instill in their ch
 
 >Earth care, People care, and Fair share
 
-The need to care for the earth (soil, water, air, and living things) comes from an understanding and acceptance that we are interconnected with nature, and we rely on it for our survival. This is the only earth after all! The requirement to care for people (self, family, and community) comes from the observation that cooperative species and associations of self-supporting species, form healthy communities. Finally, the idea of fair share (setting limits to population and consumption, and redistributing surplus) acknowledges that continuous growth is unsustainable and we need to know what is "enough" for ourselves and act accordingly.
+The need to care for the earth (soil, water, air, and living things) comes from an understanding and acceptance that we are interconnected with nature, and we rely on it for our survival. This is the only earth after all! The requirement to care for people (self, family, and community) comes from the observation that cooperative species and associations of self-supporting species form healthy communities. Finally, the idea of fair share (setting limits to population and consumption, and redistributing surplus) acknowledges that continuous growth is unsustainable and we need to know what is "enough" for ourselves and act accordingly.
 
-These ethics guide the use of twelve design principles,
+These ethics guide the use of twelve design principles.
 
 >* Observe and interact
 >* Catch and store energy
@@ -39,9 +39,9 @@ These ethics guide the use of twelve design principles,
 >* Use edges and value the marginal
 >* Creatively use and respond to change
 
-The interesting thing here is that while the particular techniques used may vary depending on the location of the property, the design principles are quite strategic and universally applicable whether you are living in the tropics, the desert, or the central parkland!
+The interesting thing here is that while the particular techniques used may vary depending on the location of the property, the design principles are quite strategic and universally applicable whether you are living in the tropics, the desert... or the central parkland!
 
-I think I will not go further into these principles now, but I will talk about them more as I encounter them throughout the design process. As I go forward with my design I will have to constantly ask myself whether I am applying these principles, and in a way that is in line with the ethics and prime directive of permaculture. 
+I think I will not go further into these principles now, but I will talk about them more as I encounter them throughout the design process. As I go forward with my design I will have to keep these principles at the top of mind, and ask myself if I am applying them in a way that is in line with the ethics and prime directive of permaculture. 
 
 In his book *Permaculture: a designers' manual*, Bill Mollison also adds five more of what he calls "Mollisonian Permaculture Principles", though they seem more like adages to me. If permaculture had catch-phrases, these would be them!
 
@@ -51,11 +51,11 @@ In his book *Permaculture: a designers' manual*, Bill Mollison also adds five mo
 >* The yield of a system is theoretically unlimited, and is only limited by the imagination of the designer
 >* Everything gardens, or has an effect on its environment
 
-One thing that struck me is that while permaculture is often though of in the context of farming, it is also very much a cultural movement, where the focus is on effecting global change through personal actions. The message being that you must start by setting your own house in order, and from that other things will follow. This is in contrast with trying to change others.
+One thing that struck me is that while permaculture is often though of in the context of farming, it is also very much a cultural movement, where the focus is on effecting global change through personal actions. The message being that you must start by setting your own house in order, and from that other things will follow. This is in contrast with trying to change others, another common human endeavor!
 
-So there you have it, a crash course in permaculture. I am beginning to believe that permaculture is more of an on-going process of trying, observing, learning, and adapting, rather than an arrival at a particular end destination. So, I take that as a licence to dip my feet in and get started, even though I still have a lot to learn.
+So there you have it, a crash course in permaculture. I am beginning to believe that permaculture is more of an on-going process of trying, observing, learning, and adapting, rather than an arrival at a particular end destination. I take that as a licence to dip my feet in and get started, even though I still have a lot to learn.
 
 Hannah & Chris<br />
 Sadie, Seuss, and Revi
 
-![paw]({{ site.baseurl }}/img/paw70x70.jpg)
+![paw]({{ site.baseurl }}img/paw70x70.jpg)

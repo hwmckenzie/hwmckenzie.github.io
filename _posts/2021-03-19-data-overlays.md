@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Data overlays"
-subtitle: "A bottomless pit of design"
+subtitle: "a bottomless pit of design"
 date: 2021-03-19 16:00:00 -0600
 categories: [Permaculture]
 background: '/img/posts/2021-03/2021-03-19-header.JPG'

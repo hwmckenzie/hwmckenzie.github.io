@@ -9,7 +9,7 @@ background: '/img/bg-post.jpg'
   <ul style="list-style-type:none;">
     {% for post in site.categories.Permaculture %}
     {% unless post.draft %}
-    <li><a href="{{ post.url }}"><u>{{ post.title }}</u></a></li>
+    <li><a href="{{ post.url }}"><u>{{ post.title }}, {{ post.date | date: '%-d %b %Y' }}</u></a></li>
     {% endunless %}
     {% endfor %}
   </ul>

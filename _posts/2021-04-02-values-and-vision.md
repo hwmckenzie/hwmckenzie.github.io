@@ -8,7 +8,7 @@ background: '/img/posts/2021-04/2021-04-03-header.jpg'
 draft:
 ---
 
-[*Authors note: This post sat for a long time in the draft stage. Between when I originally wrote it and today, I've had a bit of a shift in how I view our property (more about that soon!), although re-reading this post now, I realize many of my "new" ideas were already sitting in my subconscious just waiting to be discovered.*]
+*Authors note: This post sat for a long time in the draft stage. Between when I originally wrote it and today, I've had a bit of a shift in how I view our property (more about that soon!). Re-reading this post today though, I realize that many of my recent "new" ideas were already sitting in my subconscious just waiting to be discovered.*
 
 We have made a good start toward a design with the data overlays, as well as the zone and sector analysis. The options for our property design at this point are infinite. As Mollison says,
 
